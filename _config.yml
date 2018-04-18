@@ -1,8 +1,8 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
-locale:             en_US
+title:              Spring Creations
+bio:                'Spring Creations - Modelmaking and more...'
+description:        "Spring Creations - Modelmaking and more..."
+locale:             en_GB
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
@@ -41,9 +41,9 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Exeter, Devon
+phone:              
+email:              placeholder@springcreations.co.uk
 
 # Gems
 gems:
