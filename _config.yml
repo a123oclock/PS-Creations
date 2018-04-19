@@ -3,7 +3,7 @@ title:              Spring Creations
 bio:                'Spring Creations - Modelmaking and more...'
 description:        "Spring Creations - Modelmaking and more..."
 locale:             en_GB
-baseurl: "/projects" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 defaults:
