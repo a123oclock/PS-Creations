@@ -10,7 +10,7 @@ This model was made in my second year of university of a ‘Moose watching’ To
 	<div class="row 50% uniform">
 		<span class="image left"><img src="/images/moose_tower/pic02.jpg" alt="" /></span>
 		<span class="image right"><img src="/images/moose_tower/pic03.jpg" alt="" /></span>
-		<!-- Break -->
+<br>		<!-- Break -->
 		<span class="image left"><img src="/images/moose_tower/pic04.jpg" alt="" /></span>
 		<span class="image right"><img src="/images/moose_tower/pic05.jpg" alt="" /></span>
 	</div>
