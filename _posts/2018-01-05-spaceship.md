@@ -1,6 +1,6 @@
 ---
 layout: post
-title:	"Miniture Spaceship"
+title:	"Miniature Spaceship"
 date:	2018-01-05
 excerpt: "This was a two week project in which we had to create a miniature spaceship."
 image:	"/images/spaceship/pic01.jpg"
