@@ -1,20 +1,18 @@
 ---
 layout: post
-title:	"Arachnid Model - Maratus Robinsoni"
+title:	"Moose Tower"
 date:	2018-04-18
-excerpt: "Peacock jumping spider - Museum model. "
-image:	"/images/arachnid/pic01.jpg"
+excerpt: "Moose Tower - Scale 1:100"
+image:	"/images/moose_tower/pic01.jpg"
 ---
-This  particular species is called ‘Maratus robinson’ and is only around 2mm in real life. The model was made to help educate the public on the anatomy of this species, in particular their unusual cephalothorax and huge eyes. The hope is that it’s vibrant appearance will encourage curiosity and intrigue into these very mistunderstood creatures.
-
+This model was made in my second year of university of a ‘Moose watching’ Tower in Norway. For this project we were encouraged to work with materials we had not previously used. It is made from laser cut acrylic, pine veneer, wooden dowels and a cork clad MDF baseboard.
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="/images/arachnid/pic02.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="/images/arachnid/pic03.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="/images/arachnid/pic04.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="/images/moose_tower/pic02.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="/images/moose_tower/pic03.jpg" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="/images/arachnid/pic05.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="/images/arachnid/pic06.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="/images/moose_tower/pic04.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="/images/moose_tower/pic05.jpg" alt="" /></span></div>
 	</div>
 </div>
 
