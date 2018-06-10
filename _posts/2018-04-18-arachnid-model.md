@@ -10,16 +10,15 @@ This  particular species is called ‘Maratus robinson’ and is only around 2mm
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><a href="/images/arachnid/pic02.jpg"><img src="/images/arachnid/pic02.jpg" alt="" /></a></span></div>
-		<div class="4u"><span class="image fit"><img src="/images/arachnid/pic03.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="/images/arachnid/pic04.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><a href="/images/arachnid/pic03.jpg"><img src="/images/arachnid/pic03.jpg" alt="" /></a></span></div>
+		<div class="4u$"><span class="image fit"><a href="/images/arachnid/pic04.jpg"><img src="/images/arachnid/pic04.jpg" alt="" /></a></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="/images/arachnid/pic05.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="/images/arachnid/pic06.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="/images/arachnid/pic01.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><a href="/images/arachnid/pic05.jpg"><img src="/images/arachnid/pic05.jpg" alt="" /></a></span></div>
+		<div class="4u"><span class="image fit"><a href="/images/arachnid/pic06.jpg"><img src="/images/arachnid/pic06.jpg" alt="" /></a></span></div>
+		<div class="4u$"><span class="image fit"><a href="/images/arachnid/pic07.jpg"><img src="/images/arachnid/pic07.jpg" alt="" /></a></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="/images/arachnid/pic07.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="/images/arachnid/pic08.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="/images/arachnid/pic10.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><a href="/images/arachnid/pic08.jpg"><img src="/images/arachnid/pic08.jpg" alt="" /></a></span></div>
+		<div class="4u$"><span class="image fit"><a href="/images/arachnid/pic10.jpg"><img src="/images/arachnid/pic10.jpg" alt="" /></a></span></div>
 	</div>
 </div>
 
