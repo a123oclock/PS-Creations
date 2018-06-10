@@ -9,7 +9,7 @@ This  particular species is called ‘Maratus robinson’ and is only around 2mm
 
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="/images/arachnid/pic02.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><a href="/images/arachnid/pic02.jpg"<img src="/images/arachnid/pic02.jpg" alt="" /></a></span></div>
 		<div class="4u"><span class="image fit"><img src="/images/arachnid/pic03.jpg" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="/images/arachnid/pic04.jpg" alt="" /></span></div>
 		<!-- Break -->
