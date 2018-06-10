@@ -14,9 +14,9 @@ More photos to come soon...
 
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="/images/character_sculpt/pic02.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="/images/character_sculpt/pic03.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="/images/character_sculpt/pic04.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><a href="/images/character_sculpt/pic02.jpg"><img src="/images/character_sculpt/pic02.jpg" alt="" /></a></span></div>
+		<div class="4u"><span class="image fit"><a href="/images/character_sculpt/pic03.jpg"><img src="/images/character_sculpt/pic03.jpg" alt="" /></a></span></div>
+		<div class="4u$"><span class="image fit"><a href="/images/character_sculpt/pic04.jpg"><img src="/images/character_sculpt/pic04.jpg" alt="" /></a></span></div>
 	</div>
 </div>
 

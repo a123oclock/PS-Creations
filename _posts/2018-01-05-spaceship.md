@@ -13,7 +13,7 @@ choice. I decided on a full coverage base colour, a speckled effect on top and a
 
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="10u"><span class="image fit"><img src="/images/spaceship/pic02.jpg" alt="" /></span></div>
+		<div class="10u"><span class="image fit"><a href="/images/spaceship/pic02.jpg"><img src="/images/spaceship/pic02.jpg" alt="" /></a></span></div>
 	</div>
 </div>
 

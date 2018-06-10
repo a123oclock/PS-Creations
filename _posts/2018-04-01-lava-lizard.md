@@ -9,9 +9,9 @@ It was sculpted in ‘Super Sculpey’ and baked to a hard finish. It is hand pa
 
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="/images/lava_lizard/pic02.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="/images/lava_lizard/pic03.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="/images/lava_lizard/pic04.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><a href="/images/lava_lizard/pic02.jpg"><img src="/images/lava_lizard/pic02.jpg" alt="" /></a></span></div>
+		<div class="4u"><span class="image fit"><a href="/images/lava_lizard/pic03.jpg"><img src="/images/lava_lizard/pic03.jpg" alt="" /></a></span></div>
+		<div class="4u$"><span class="image fit"><a href="/images/lava_lizard/pic04.jpg"><img src="/images/lava_lizard/pic04.jpg" alt="" /></a></span></div>
 	</div>
 </div>
 
