@@ -1,8 +1,8 @@
 ---
 layout: post
-title:	"Hyperrealistic Silicone Sulpture 'Mo'"
+title:	"Hyperrealistic Silicone Sculpture 'Mo'"
 date:	2018-07-13
-excerpt: "Scale: Head 3/4 Lifesize"
+excerpt: "Portrait Sculpture - Scale: 3/4 Lifesize"
 image:	"/images/hyperrealistic_portrait_sculpture_mo/pic01.jpg"
 ---
 
