@@ -3,7 +3,7 @@ layout: post
 title:	"Arachnid Model - Maratus Robinsoni"
 date:	2018-04-18
 excerpt: "75:1 Scale Peacock jumping spider - Museum model. "
-image:	"/images/arachnid/pic09.jpg"
+image:	"/images/arachnid/pic01.jpg"
 ---
 This  particular species is called ‘Maratus robinson’ and is only around 2mm in real life. The model was made to help educate the public on the anatomy of this species, in particular their unusual cephalothorax and huge eyes. The hope is that it’s vibrant appearance will encourage curiosity and intrigue into these very mistunderstood creatures.
 
@@ -18,7 +18,7 @@ This  particular species is called ‘Maratus robinson’ and is only around 2mm
 		<div class="4u$"><span class="image fit"><a href="/images/arachnid/pic07.jpg"><img src="/images/arachnid/pic07.jpg" alt="" /></a></span></div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><a href="/images/arachnid/pic08.jpg"><img src="/images/arachnid/pic08.jpg" alt="" /></a></span></div>
-		<div class="4u$"><span class="image fit"><a href="/images/arachnid/pic10.jpg"><img src="/images/arachnid/pic10.jpg" alt="" /></a></span></div>
+		<div class="4u$"><span class="image fit"><a href="/images/arachnid/pic10.jpg"><img src="/images/arachnid/pic09.jpg" alt="" /></a></span></div>
 	</div>
 </div>
 
